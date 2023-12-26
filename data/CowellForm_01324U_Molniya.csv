@@ -1,0 +1,599 @@
+Time(day),a(km),e,i(deg),n(deg),w(deg),m(deg),hp(km)
+0.00000000,26698.354185,0.7411754, 65.4699,273.5819,323.7043,  3.8382,532.055279
+3.50261265,26702.780883,0.7410419, 65.4536,273.1111,323.6389,  3.3290,536.767137
+12.00851767,26695.728055,0.7410230, 65.5078,271.8982,323.4794,  2.0885,535.445637
+22.01576790,26683.901785,0.7406696, 65.5127,270.5265,323.2950,  1.5525,541.812710
+27.01886478,26673.565001,0.7404783, 65.5564,269.8107,323.2453,  1.2087,544.234012
+33.02226353,26665.728589,0.7400906, 65.5284,269.0141,323.1365,  0.9848,552.539279
+54.03162796,nan,nan,     nan,     nan,     nan,228.1690,nan
+61.53459134,nan,nan,     nan,     nan,     nan,229.4238,nan
+70.03809001,nan,nan,     nan,     nan,     nan,230.9135,nan
+77.54112066,nan,nan,     nan,     nan,     nan,231.6468,nan
+81.54300137,nan,nan,     nan,     nan,     nan,232.1396,nan
+89.54680712,nan,nan,     nan,     nan,     nan,233.8413,nan
+97.05118004,nan,nan,     nan,     nan,     nan,234.7637,nan
+102.05440330,nan,nan,     nan,     nan,     nan,236.2649,nan
+107.05807833,nan,nan,     nan,     nan,     nan,235.8352,nan
+108.05890210,nan,nan,     nan,     nan,     nan,236.2649,nan
+111.06146872,nan,nan,     nan,     nan,     nan,237.1701,nan
+119.56905147,nan,nan,     nan,     nan,     nan,238.7057,nan
+125.07447415,nan,nan,     nan,     nan,     nan,239.3302,nan
+139.58909991,nan,nan,     nan,     nan,     nan,241.8226,nan
+153.60187744,nan,nan,     nan,     nan,     nan,243.4956,nan
+166.61124246,nan,nan,     nan,     nan,     nan,246.3203,nan
+173.61506991,nan,nan,     nan,     nan,     nan,246.4291,nan
+181.61863390,nan,nan,     nan,     nan,     nan,248.0392,nan
+195.62370837,nan,nan,     nan,     nan,     nan,250.1075,nan
+204.62749363,nan,nan,     nan,     nan,     nan,251.6144,nan
+210.12823568,nan,nan,     nan,     nan,     nan,252.5827,nan
+221.12948276,nan,nan,     nan,     nan,     nan,254.4677,nan
+224.12987692,nan,nan,     nan,     nan,     nan,254.7771,nan
+228.13055147,nan,nan,     nan,     nan,     nan,255.6366,nan
+230.63119283,nan,nan,     nan,     nan,     nan,255.7512,nan
+269.14997093,nan,nan,     nan,     nan,     nan,264.1393,nan
+273.65296658,nan,nan,     nan,     nan,     nan,265.1534,nan
+285.15999669,nan,nan,     nan,     nan,     nan,268.3161,nan
+364.17651425,nan,nan,     nan,     nan,     nan,284.1871,nan
+370.17752437,nan,nan,     nan,     nan,     nan,285.1955,nan
+378.67933780,nan,nan,     nan,     nan,     nan,286.7940,nan
+391.68412969,nan,nan,     nan,     nan,     nan,289.6932,nan
+397.18691768,nan,nan,     nan,     nan,     nan,291.3891,nan
+407.19262951,nan,nan,     nan,     nan,     nan,292.9934,nan
+411.19502241,nan,nan,     nan,     nan,     nan,295.8582,nan
+415.19748182,nan,nan,     nan,     nan,     nan,296.7119,nan
+415.19757288,nan,nan,     nan,     nan,     nan,296.4484,nan
+418.19945052,nan,nan,     nan,     nan,     nan,297.2161,nan
+420.20074925,nan,nan,     nan,     nan,     nan,297.6401,nan
+428.20563469,nan,nan,     nan,     nan,     nan,298.9751,nan
+465.71950721,nan,nan,     nan,     nan,     nan,307.5122,nan
+470.22005022,nan,nan,     nan,     nan,     nan,308.4690,nan
+473.72055100,nan,nan,     nan,     nan,     nan,308.8071,nan
+549.23657495,nan,nan,     nan,     nan,     nan,329.1929,nan
+556.74074320,nan,nan,     nan,     nan,     nan,332.3213,nan
+561.74381442,nan,nan,     nan,     nan,     nan,334.0057,nan
+567.24721730,nan,nan,     nan,     nan,     nan,335.2090,nan
+575.25211991,nan,nan,     nan,     nan,     nan,337.9534,nan
+583.25646866,nan,nan,     nan,     nan,     nan,340.3598,nan
+591.26011526,nan,nan,     nan,     nan,     nan,342.4569,nan
+599.26310504,nan,nan,     nan,     nan,     nan,344.4909,nan
+603.26418017,nan,nan,     nan,     nan,     nan,347.8312,nan
+616.26674643,nan,nan,     nan,     nan,     nan,350.3923,nan
+618.26691718,nan,nan,     nan,     nan,     nan,350.7418,nan
+627.26784204,nan,nan,     nan,     nan,     nan,352.6498,nan
+632.26813949,nan,nan,     nan,     nan,     nan,354.9359,nan
+639.76861568,nan,nan,     nan,     nan,     nan,355.8297,nan
+656.26975720,nan,nan,     nan,     nan,     nan,  1.3473,nan
+673.27255461,nan,nan,     nan,     nan,     nan,  7.3576,nan
+685.27692120,nan,nan,     nan,     nan,     nan,  9.3057,nan
+693.28039859,nan,nan,     nan,     nan,     nan, 10.6349,nan
+1013.38035204,nan,nan,     nan,     nan,     nan,118.1276,nan
+1026.38772086,nan,nan,     nan,     nan,     nan,123.0607,nan
+1030.38980117,nan,nan,     nan,     nan,     nan,124.6707,nan
+1033.39137963,nan,nan,     nan,     nan,     nan,124.6994,nan
+1056.39930329,nan,nan,     nan,     nan,     nan,135.7747,nan
+1083.40239599,nan,nan,     nan,     nan,     nan,142.9137,nan
+1097.40254367,nan,nan,     nan,     nan,     nan,147.0333,nan
+1114.40355189,nan,nan,     nan,     nan,     nan,152.5222,nan
+1155.91848131,nan,nan,     nan,     nan,     nan,167.0925,nan
+1159.92068633,nan,nan,     nan,     nan,     nan,168.4275,nan
+1172.92790193,nan,nan,     nan,     nan,     nan,173.7446,nan
+1187.93546708,nan,nan,     nan,     nan,     nan,179.7320,nan
+1198.93972918,nan,nan,     nan,     nan,     nan,182.8661,nan
+1206.44184153,nan,nan,     nan,     nan,     nan,185.8111,nan
+1207.44205472,nan,nan,     nan,     nan,     nan,186.5616,nan
+1220.44434299,nan,nan,     nan,     nan,     nan,191.1739,nan
+1235.44545966,nan,nan,     nan,     nan,     nan,196.1587,nan
+1292.45464749,nan,nan,     nan,     nan,     nan,213.8287,nan
+1344.48118616,nan,nan,     nan,     nan,     nan,232.0602,nan
+1344.48118617,nan,nan,     nan,     nan,     nan,232.0602,nan
+1360.48605652,nan,nan,     nan,     nan,     nan,237.9044,nan
+1366.48719665,nan,nan,     nan,     nan,     nan,239.4113,nan
+1372.48815417,nan,nan,     nan,     nan,     nan,239.5488,nan
+1389.48896455,nan,nan,     nan,     nan,     nan,248.8307,nan
+1395.48923459,nan,nan,     nan,     nan,     nan,247.2722,nan
+1526.52930858,nan,nan,     nan,     nan,     nan,284.4286,nan
+1539.53162038,nan,nan,     nan,     nan,     nan,290.3472,nan
+1546.53208651,nan,nan,     nan,     nan,     nan,294.8621,nan
+1561.53250861,nan,nan,     nan,     nan,     nan,293.7735,nan
+1658.57124929,nan,nan,     nan,     nan,     nan,326.2545,nan
+1660.57180210,nan,nan,     nan,     nan,     nan,325.5440,nan
+1674.57441623,nan,nan,     nan,     nan,     nan,330.1105,nan
+1681.57506319,nan,nan,     nan,     nan,     nan,333.3019,nan
+1687.07533624,nan,nan,     nan,     nan,     nan,334.8259,nan
+1691.57558682,nan,nan,     nan,     nan,     nan,336.2755,nan
+1698.57579240,nan,nan,     nan,     nan,     nan,338.3553,nan
+1702.57594843,nan,nan,     nan,     nan,     nan,339.7075,nan
+1710.57626910,nan,nan,     nan,     nan,     nan,342.3374,nan
+1713.57644422,nan,nan,     nan,     nan,     nan,342.8072,nan
+1715.07656324,nan,nan,     nan,     nan,     nan,343.4203,nan
+1717.57684862,nan,nan,     nan,     nan,     nan,343.0364,nan
+1720.07711107,nan,nan,     nan,     nan,     nan,344.2052,nan
+1726.07800520,nan,nan,     nan,     nan,     nan,345.7580,nan
+1730.07879771,nan,nan,     nan,     nan,     nan,346.6059,nan
+1731.57914495,nan,nan,     nan,     nan,     nan,346.6518,nan
+1736.58049149,nan,nan,     nan,     nan,     nan,347.8149,nan
+1740.08158471,nan,nan,     nan,     nan,     nan,348.4566,nan
+1747.08423439,nan,nan,     nan,     nan,     nan,349.4249,nan
+1755.08792792,nan,nan,     nan,     nan,     nan,351.2125,nan
+1761.09111893,nan,nan,     nan,     nan,     nan,352.5131,nan
+1765.09328180,nan,nan,     nan,     nan,     nan,353.6934,nan
+1790.60753134,nan,nan,     nan,     nan,     nan,  1.2335,nan
+1793.60887454,nan,nan,     nan,     nan,     nan,  0.7752,nan
+1810.61512544,nan,nan,     nan,     nan,     nan,  6.6480,nan
+1817.11676753,nan,nan,     nan,     nan,     nan,  9.7133,nan
+1819.61710204,nan,nan,     nan,     nan,     nan, 10.4066,nan
+1821.61744209,nan,nan,     nan,     nan,     nan, 11.3004,nan
+1826.61806766,nan,nan,     nan,     nan,     nan, 13.2255,nan
+1832.11853102,nan,nan,     nan,     nan,     nan, 15.3340,nan
+1835.61879733,nan,nan,     nan,     nan,     nan, 17.1560,nan
+1838.61891416,nan,nan,     nan,     nan,     nan, 17.7405,nan
+1845.61909037,nan,nan,     nan,     nan,     nan, 19.2760,nan
+1852.61932127,nan,nan,     nan,     nan,     nan, 22.5304,nan
+1859.61959012,nan,nan,     nan,     nan,     nan, 24.9941,nan
+1861.61969328,nan,nan,     nan,     nan,     nan, 25.2176,nan
+1868.62041869,nan,nan,     nan,     nan,     nan, 28.7814,nan
+1876.62138115,nan,nan,     nan,     nan,     nan, 27.7386,nan
+1882.62265246,nan,nan,     nan,     nan,     nan, 28.7642,nan
+1887.62406470,nan,nan,     nan,     nan,     nan, 32.7691,nan
+1889.62483214,nan,nan,     nan,     nan,     nan, 33.9151,nan
+1890.62508770,nan,nan,     nan,     nan,     nan, 34.2531,nan
+1893.62611651,nan,nan,     nan,     nan,     nan, 32.5801,nan
+1900.62907020,nan,nan,     nan,     nan,     nan, 36.1782,nan
+1912.13501525,nan,nan,     nan,     nan,     nan, 38.7680,nan
+1916.13731642,nan,nan,     nan,     nan,     nan, 39.9827,nan
+1917.63822012,nan,nan,     nan,     nan,     nan, 40.3952,nan
+1923.64176461,nan,nan,     nan,     nan,     nan, 41.6213,nan
+1928.64473186,nan,nan,     nan,     nan,     nan, 42.9391,nan
+1938.15011127,nan,nan,     nan,     nan,     nan, 45.3971,nan
+1944.15321415,nan,nan,     nan,     nan,     nan, 47.5801,nan
+1948.15504623,nan,nan,     nan,     nan,     nan, 48.4911,nan
+1952.65686849,nan,nan,     nan,     nan,     nan, 49.9006,nan
+1960.65958902,nan,nan,     nan,     nan,     nan, 51.7111,nan
+1963.66039347,nan,nan,     nan,     nan,     nan, 52.5362,nan
+1965.66087248,nan,nan,     nan,     nan,     nan, 54.1920,nan
+1971.66207557,nan,nan,     nan,     nan,     nan, 55.4525,nan
+1992.66396056,nan,nan,     nan,     nan,     nan, 64.1271,nan
+1994.66401356,nan,nan,     nan,     nan,     nan, 64.7574,nan
+1999.66420099,nan,nan,     nan,     nan,     nan, 66.6825,nan
+2016.66517533,nan,nan,     nan,     nan,     nan, 72.6241,nan
+2022.16572218,nan,nan,     nan,     nan,     nan, 75.6665,nan
+2026.16642340,nan,nan,     nan,     nan,     nan, 77.3281,nan
+2027.66669852,nan,nan,     nan,     nan,     nan, 78.0672,nan
+2030.16725602,nan,nan,     nan,     nan,     nan, 79.0469,nan
+2034.16807963,nan,nan,     nan,     nan,     nan, 80.4335,nan
+2037.16891727,nan,nan,     nan,     nan,     nan, 81.2987,nan
+2042.17059099,nan,nan,     nan,     nan,     nan, 82.5764,nan
+2045.17172965,nan,nan,     nan,     nan,     nan, 83.4931,nan
+2051.67450973,nan,nan,     nan,     nan,     nan, 85.6531,nan
+2057.67753537,nan,nan,     nan,     nan,     nan, 87.4236,nan
+2059.67858560,nan,nan,     nan,     nan,     nan, 87.9106,nan
+2069.68437124,nan,nan,     nan,     nan,     nan, 90.6321,nan
+2076.18822102,nan,nan,     nan,     nan,     nan, 92.2995,nan
+2079.69032997,nan,nan,     nan,     nan,     nan, 92.9813,nan
+2081.19118238,nan,nan,     nan,     nan,     nan, 93.3823,nan
+2082.69208501,nan,nan,     nan,     nan,     nan, 93.8980,nan
+2084.19295756,nan,nan,     nan,     nan,     nan, 94.0069,nan
+2087.19463313,nan,nan,     nan,     nan,     nan, 95.1814,nan
+2088.69550340,nan,nan,     nan,     nan,     nan, 95.2616,nan
+2090.69648557,nan,nan,     nan,     nan,     nan, 96.0180,nan
+2092.19720238,nan,nan,     nan,     nan,     nan, 96.3445,nan
+2093.19772419,nan,nan,     nan,     nan,     nan, 96.9290,nan
+2094.69849626,nan,nan,     nan,     nan,     nan, 96.8831,nan
+2096.19920797,nan,nan,     nan,     nan,     nan, 97.0550,nan
+2098.70036265,nan,nan,     nan,     nan,     nan, 97.9660,nan
+2100.70120641,nan,nan,     nan,     nan,     nan, 99.3755,nan
+2102.20179149,nan,nan,     nan,     nan,     nan, 99.5817,nan
+2103.70237509,nan,nan,     nan,     nan,     nan, 99.6448,nan
+2105.20291810,nan,nan,     nan,     nan,     nan, 99.9255,nan
+2109.20427954,nan,nan,     nan,     nan,     nan,101.0256,nan
+2110.70472602,nan,nan,     nan,     nan,     nan,101.2319,nan
+2111.20487110,nan,nan,     nan,     nan,     nan,101.5183,nan
+2113.70554178,nan,nan,     nan,     nan,     nan,102.6643,nan
+2116.70624399,nan,nan,     nan,     nan,     nan,103.9420,nan
+2119.20675027,nan,nan,     nan,     nan,     nan,105.1738,nan
+2126.20788884,nan,nan,     nan,     nan,     nan,107.2708,nan
+2128.20807874,nan,nan,     nan,     nan,     nan,107.6547,nan
+2132.70851922,nan,nan,     nan,     nan,     nan,109.6658,nan
+2136.70877626,nan,nan,     nan,     nan,     nan,111.0466,nan
+2139.70887634,nan,nan,     nan,     nan,     nan,112.3472,nan
+2141.70894891,nan,nan,     nan,     nan,     nan,113.3098,nan
+2143.70898915,nan,nan,     nan,     nan,     nan,113.9630,nan
+2145.70906619,nan,nan,     nan,     nan,     nan,114.6448,nan
+2147.70914749,nan,nan,     nan,     nan,     nan,116.1803,nan
+2151.20934235,nan,nan,     nan,     nan,     nan,117.8820,nan
+2152.70929194,nan,nan,     nan,     nan,     nan,118.4378,nan
+2154.70929165,nan,nan,     nan,     nan,     nan,119.4290,nan
+2156.70937820,nan,nan,     nan,     nan,     nan,120.3228,nan
+2158.70947178,nan,nan,     nan,     nan,     nan,121.7323,nan
+2161.70961573,nan,nan,     nan,     nan,     nan,122.2308,nan
+2163.70974673,nan,nan,     nan,     nan,     nan,123.0558,nan
+2166.70998436,nan,nan,     nan,     nan,     nan,125.0898,nan
+2173.71083191,nan,nan,     nan,     nan,     nan,128.8771,nan
+2176.71131815,nan,nan,     nan,     nan,     nan,129.2610,nan
+2179.71189578,nan,nan,     nan,     nan,     nan,131.4038,nan
+2184.71305144,nan,nan,     nan,     nan,     nan,133.3805,nan
+2186.71362937,nan,nan,     nan,     nan,     nan,134.2457,nan
+2188.71427283,nan,nan,     nan,     nan,     nan,134.7499,nan
+2191.71530474,nan,nan,     nan,     nan,     nan,136.3943,nan
+2194.71640628,nan,nan,     nan,     nan,     nan,137.9298,nan
+2195.71680158,nan,nan,     nan,     nan,     nan,138.6231,nan
+2198.71806654,nan,nan,     nan,     nan,     nan,140.1185,nan
+2201.21926319,nan,nan,     nan,     nan,     nan,141.4707,nan
+2203.22025354,nan,nan,     nan,     nan,     nan,142.4619,nan
+2204.72100975,nan,nan,     nan,     nan,     nan,142.3588,nan
+2205.72152550,nan,nan,     nan,     nan,     nan,143.3729,nan
+2206.72205065,nan,nan,     nan,     nan,     nan,142.8057,nan
+2209.22336066,nan,nan,     nan,     nan,     nan,143.9287,nan
+2211.72475176,nan,nan,     nan,     nan,     nan,145.0517,nan
+2213.22561365,nan,nan,     nan,     nan,     nan,145.8252,nan
+2214.72650498,nan,nan,     nan,     nan,     nan,146.3351,nan
+2216.22742043,nan,nan,     nan,     nan,     nan,146.7476,nan
+2217.72833145,nan,nan,     nan,     nan,     nan,147.4581,nan
+2218.72893287,nan,nan,     nan,     nan,     nan,146.9482,nan
+2220.22986716,nan,nan,     nan,     nan,     nan,147.6758,nan
+2224.23230005,nan,nan,     nan,     nan,     nan,149.3832,nan
+2226.23350450,nan,nan,     nan,     nan,     nan,150.1395,nan
+2228.23480444,nan,nan,     nan,     nan,     nan,151.4688,nan
+2230.23602190,nan,nan,     nan,     nan,     nan,151.7897,nan
+2232.73753450,nan,nan,     nan,     nan,     nan,151.7667,nan
+2234.73868636,nan,nan,     nan,     nan,     nan,152.7179,nan
+2236.73981645,nan,nan,     nan,     nan,     nan,153.3252,nan
+2239.74151178,nan,nan,     nan,     nan,     nan,155.5368,nan
+2243.74371377,nan,nan,     nan,     nan,     nan,158.6938,nan
+2246.74509553,nan,nan,     nan,     nan,     nan,155.5483,nan
+2256.24918701,nan,nan,     nan,     nan,     nan,163.6499,nan
+2275.25373122,nan,nan,     nan,     nan,     nan,153.9268,nan
+2303.75571699,nan,nan,     nan,     nan,     nan,179.5953,nan
+2309.25590824,nan,nan,     nan,     nan,     nan,182.2080,nan
+2309.25590983,nan,nan,     nan,     nan,     nan,182.4028,nan
+2321.25707691,nan,nan,     nan,     nan,     nan,189.9315,nan
+2321.25710643,nan,nan,     nan,     nan,     nan,187.0896,nan
+2331.25908828,nan,nan,     nan,     nan,     nan,195.2485,nan
+2332.25929521,nan,nan,     nan,     nan,     nan,196.5720,nan
+2335.26010441,nan,nan,     nan,     nan,     nan,198.9957,nan
+2339.26141874,nan,nan,     nan,     nan,     nan,197.2252,nan
+2343.26291885,nan,nan,     nan,     nan,     nan,200.6859,nan
+2347.26451894,nan,nan,     nan,     nan,     nan,203.2642,nan
+2351.26640129,nan,nan,     nan,     nan,     nan,205.1836,nan
+2352.26689573,nan,nan,     nan,     nan,     nan,205.6076,nan
+2353.26740873,nan,nan,     nan,     nan,     nan,206.1576,nan
+2357.26950801,nan,nan,     nan,     nan,     nan,208.3234,nan
+2359.77089484,nan,nan,     nan,     nan,     nan,209.8475,nan
+2364.77379464,nan,nan,     nan,     nan,     nan,212.8440,nan
+2365.77440633,nan,nan,     nan,     nan,     nan,212.9414,nan
+2367.27533663,nan,nan,     nan,     nan,     nan,213.6462,nan
+2370.27721877,nan,nan,     nan,     nan,     nan,215.3880,nan
+2371.27784119,nan,nan,     nan,     nan,     nan,215.7604,nan
+2373.77932621,nan,nan,     nan,     nan,     nan,217.1641,nan
+2380.78362865,nan,nan,     nan,     nan,     nan,220.1435,nan
+2385.78654753,nan,nan,     nan,     nan,     nan,222.5729,nan
+2387.78768225,nan,nan,     nan,     nan,     nan,223.7016,nan
+2388.28789435,nan,nan,     nan,     nan,     nan,224.0626,nan
+2391.28952778,nan,nan,     nan,     nan,     nan,224.8704,nan
+2392.79031111,nan,nan,     nan,     nan,     nan,225.3288,nan
+2401.79444204,nan,nan,     nan,     nan,     nan,229.5343,nan
+2405.29574313,nan,nan,     nan,     nan,     nan,203.9575,nan
+2407.29645894,nan,nan,     nan,     nan,     nan,232.2444,nan
+2409.29717354,nan,nan,     nan,     nan,     nan,230.1817,nan
+2412.29803384,nan,nan,     nan,     nan,     nan,234.2899,nan
+2412.79815723,nan,nan,     nan,     nan,     nan,232.4507,nan
+2419.79970632,nan,nan,     nan,     nan,     nan,235.4701,nan
+2421.30003922,nan,nan,     nan,     nan,     nan,235.8827,nan
+2449.30210075,nan,nan,     nan,     nan,     nan,248.4877,nan
+2454.80204169,nan,nan,     nan,     nan,     nan,249.4331,nan
+2455.80224183,nan,nan,     nan,     nan,     nan,251.0947,nan
+2461.30238329,nan,nan,     nan,     nan,     nan,254.1887,nan
+2467.80310279,nan,nan,     nan,     nan,     nan,258.0619,nan
+2475.30458051,nan,nan,     nan,     nan,     nan,265.1666,nan
+2477.80476367,nan,nan,     nan,     nan,     nan,264.8342,nan
+2484.80653121,nan,nan,     nan,     nan,     nan,269.5439,nan
+2489.30785352,nan,nan,     nan,     nan,     nan,272.1681,nan
+2496.81082722,nan,nan,     nan,     nan,     nan,276.8434,nan
+2498.81173882,nan,nan,     nan,     nan,     nan,277.8117,nan
+2500.81270582,nan,nan,     nan,     nan,     nan,278.9576,nan
+2506.31555352,nan,nan,     nan,     nan,     nan,282.7048,nan
+2507.81639495,nan,nan,     nan,     nan,     nan,284.5440,nan
+2512.81926157,nan,nan,     nan,     nan,     nan,287.5978,nan
+2513.81987773,nan,nan,     nan,     nan,     nan,288.3198,nan
+2517.82233982,nan,nan,     nan,     nan,     nan,290.9726,nan
+2520.32386912,nan,nan,     nan,     nan,     nan,292.8920,nan
+2532.33151360,nan,nan,     nan,     nan,     nan,302.4317,nan
+2535.33324882,nan,nan,     nan,     nan,     nan,303.6063,nan
+2544.33774380,nan,nan,     nan,     nan,     nan,295.9860,nan
+2549.33997676,nan,nan,     nan,     nan,     nan,297.0058,nan
+2553.34170803,nan,nan,     nan,     nan,     nan,298.5986,nan
+2556.34277147,nan,nan,     nan,     nan,     nan,297.5501,nan
+2560.34432651,nan,nan,     nan,     nan,     nan,308.2186,nan
+2562.34496154,nan,nan,     nan,     nan,     nan,311.0605,nan
+2566.34566999,nan,nan,     nan,     nan,     nan,303.3542,nan
+2587.34921026,nan,nan,     nan,     nan,     nan,335.0273,nan
+2604.34980904,nan,nan,     nan,     nan,     nan,340.2985,nan
+2628.35223116,nan,nan,     nan,     nan,     nan,353.6656,nan
+2637.85521997,nan,nan,     nan,     nan,     nan,356.2668,nan
+2640.35643795,nan,nan,     nan,     nan,     nan,356.1809,nan
+2651.86164099,nan,nan,     nan,     nan,     nan,  5.0503,nan
+2658.86554686,nan,nan,     nan,     nan,     nan, 12.0518,nan
+2665.36952532,nan,nan,     nan,     nan,     nan, 16.8246,nan
+2671.37330382,nan,nan,     nan,     nan,     nan, 21.9640,nan
+2673.87492373,nan,nan,     nan,     nan,     nan, 23.6542,nan
+2675.87609783,nan,nan,     nan,     nan,     nan, 25.1267,nan
+2679.37836178,nan,nan,     nan,     nan,     nan, 27.6019,nan
+2681.87997282,nan,nan,     nan,     nan,     nan, 30.4151,nan
+2688.88386569,nan,nan,     nan,     nan,     nan, 35.3884,nan
+2694.38682701,nan,nan,     nan,     nan,     nan, 40.5909,nan
+2715.39419721,nan,nan,     nan,     nan,     nan, 54.8289,nan
+2721.39535335,nan,nan,     nan,     nan,     nan, 59.1604,nan
+2724.39580106,nan,nan,     nan,     nan,     nan, 61.3491,nan
+2726.39606798,nan,nan,     nan,     nan,     nan, 66.6089,nan
+2778.39984696,nan,nan,     nan,     nan,     nan, 87.9057,nan
+2829.42547020,nan,nan,     nan,     nan,     nan,125.7782,nan
+2830.42610863,nan,nan,     nan,     nan,     nan,128.7003,nan
+2836.42962495,nan,nan,     nan,     nan,     nan,136.7103,nan
+2840.43176142,nan,nan,     nan,     nan,     nan,139.0766,nan
+2848.43554760,nan,nan,     nan,     nan,     nan,145.0525,nan
+2854.43824579,nan,nan,     nan,     nan,     nan,154.1912,nan
+2866.44164812,nan,nan,     nan,     nan,     nan,162.8028,nan
+2879.44322952,nan,nan,     nan,     nan,     nan,161.3589,nan
+2881.44340283,nan,nan,     nan,     nan,     nan,163.4674,nan
+2886.44384151,nan,nan,     nan,     nan,     nan,167.4208,nan
+2893.44438055,nan,nan,     nan,     nan,     nan,182.7360,nan
+2904.44444830,nan,nan,     nan,     nan,     nan,175.9063,nan
+2908.44496219,nan,nan,     nan,     nan,     nan,191.1183,nan
+2914.44518495,nan,nan,     nan,     nan,     nan,184.5923,nan
+2924.44684548,nan,nan,     nan,     nan,     nan,200.6065,nan
+2945.45387287,nan,nan,     nan,     nan,     nan,214.7528,nan
+2948.45533117,nan,nan,     nan,     nan,     nan,216.7410,nan
+2959.46139928,nan,nan,     nan,     nan,     nan,226.3323,nan
+2962.46324823,nan,nan,     nan,     nan,     nan,228.8877,nan
+2965.46518213,nan,nan,     nan,     nan,     nan,231.5462,nan
+2973.47033302,nan,nan,     nan,     nan,     nan,239.0806,nan
+2978.97377787,nan,nan,     nan,     nan,     nan,243.3893,nan
+2980.97501931,nan,nan,     nan,     nan,     nan,244.8847,nan
+2984.47710438,nan,nan,     nan,     nan,     nan,248.2995,nan
+2987.47883162,nan,nan,     nan,     nan,     nan,252.2300,nan
+2995.48302100,nan,nan,     nan,     nan,     nan,259.6555,nan
+2997.98413369,nan,nan,     nan,     nan,     nan,261.6093,nan
+3003.48633911,nan,nan,     nan,     nan,     nan,267.5108,nan
+3006.48742421,nan,nan,     nan,     nan,     nan,270.9600,nan
+3009.48835197,nan,nan,     nan,     nan,     nan,273.4008,nan
+3016.48987805,nan,nan,     nan,     nan,     nan,275.4348,nan
+3018.99042312,nan,nan,     nan,     nan,     nan,275.9390,nan
+3025.99129850,nan,nan,     nan,     nan,     nan,281.8347,nan
+3029.49173117,nan,nan,     nan,     nan,     nan,284.6480,nan
+3031.99184750,nan,nan,     nan,     nan,     nan,284.6823,nan
+3034.49203936,nan,nan,     nan,     nan,     nan,285.9829,nan
+3071.99570007,nan,nan,     nan,     nan,     nan,316.4930,nan
+3076.99888449,nan,nan,     nan,     nan,     nan,322.2684,nan
+3100.50404348,nan,nan,     nan,     nan,     nan,356.2218,nan
+3109.50853365,nan,nan,     nan,     nan,     nan,350.5266,nan
+3111.50972455,nan,nan,     nan,     nan,     nan,352.9617,nan
+3119.01438480,nan,nan,     nan,     nan,     nan,359.7054,nan
+3131.52253902,nan,nan,     nan,     nan,     nan, 16.5160,nan
+3139.52731886,nan,nan,     nan,     nan,     nan, 22.8300,nan
+3143.52920756,nan,nan,     nan,     nan,     nan, 26.0271,nan
+3192.53891012,nan,nan,     nan,     nan,     nan, 59.9920,nan
+3254.05290004,nan,nan,     nan,     nan,     nan,126.2603,nan
+3274.56535073,nan,nan,     nan,     nan,     nan,145.2482,nan
+3279.56856462,nan,nan,     nan,     nan,     nan,149.4938,nan
+3324.58575792,nan,nan,     nan,     nan,     nan,190.0191,nan
+3404.60030479,nan,nan,     nan,     nan,     nan,269.6774,nan
+3443.62313243,nan,nan,     nan,     nan,     nan,303.7340,nan
+3464.63011281,nan,nan,     nan,     nan,     nan,314.4598,nan
+3464.63012282,nan,nan,     nan,     nan,     nan,316.5339,nan
+3471.63137311,nan,nan,     nan,     nan,     nan,319.8284,nan
+3473.63156244,nan,nan,     nan,     nan,     nan,319.0435,nan
+3475.63180275,nan,nan,     nan,     nan,     nan,317.5652,nan
+3478.63202350,nan,nan,     nan,     nan,     nan,317.3991,nan
+3483.63242310,nan,nan,     nan,     nan,     nan,326.1825,nan
+3487.63291090,nan,nan,     nan,     nan,     nan,337.9224,nan
+3491.63321080,nan,nan,     nan,     nan,     nan,350.2410,nan
+3494.63315885,nan,nan,     nan,     nan,     nan,345.4224,nan
+3502.63343874,nan,nan,     nan,     nan,     nan,357.6608,nan
+3504.13350028,nan,nan,     nan,     nan,     nan,  1.7976,nan
+3513.13399477,nan,nan,     nan,     nan,     nan, 11.6524,nan
+3514.63421365,nan,nan,     nan,     nan,     nan, 15.4855,nan
+3517.13450783,nan,nan,     nan,     nan,     nan, 18.2300,nan
+3519.63523979,nan,nan,     nan,     nan,     nan, 32.6112,nan
+3523.63554255,nan,nan,     nan,     nan,     nan, 25.0998,nan
+3525.63566080,nan,nan,     nan,     nan,     nan, 17.7774,nan
+3528.63682256,nan,nan,     nan,     nan,     nan, 38.3695,nan
+3533.63809476,nan,nan,     nan,     nan,     nan, 41.9390,nan
+3537.63907180,nan,nan,     nan,     nan,     nan, 32.8576,nan
+3539.13957057,nan,nan,     nan,     nan,     nan, 33.3389,nan
+3542.14078555,nan,nan,     nan,     nan,     nan, 39.7961,nan
+3576.15928826,nan,nan,     nan,     nan,     nan, 63.2874,nan
+3578.16059956,nan,nan,     nan,     nan,     nan, 64.8974,nan
+3580.16184888,nan,nan,     nan,     nan,     nan, 74.9299,nan
+3584.16460547,nan,nan,     nan,     nan,     nan, 82.6877,nan
+3587.16587863,nan,nan,     nan,     nan,     nan, 72.6037,nan
+3588.66686377,nan,nan,     nan,     nan,     nan, 85.0311,nan
+3591.16786990,nan,nan,     nan,     nan,     nan, 78.9578,nan
+3592.66871629,nan,nan,     nan,     nan,     nan, 75.0388,nan
+3594.16948447,nan,nan,     nan,     nan,     nan, 75.9899,nan
+3596.17067227,nan,nan,     nan,     nan,     nan, 91.7691,nan
+3606.17466673,nan,nan,     nan,     nan,     nan, 96.8685,nan
+3613.67652783,nan,nan,     nan,     nan,     nan,101.2459,nan
+3625.67870030,nan,nan,     nan,     nan,     nan,112.2524,nan
+3625.67870078,nan,nan,     nan,     nan,     nan,112.2753,nan
+3645.18016176,nan,nan,     nan,     nan,     nan,135.8353,nan
+3663.18092042,nan,nan,     nan,     nan,     nan,150.8353,nan
+3670.68159086,nan,nan,     nan,     nan,     nan,155.0008,nan
+3682.68377480,nan,nan,     nan,     nan,     nan,160.2949,nan
+3697.68943720,nan,nan,     nan,     nan,     nan,180.7094,nan
+3703.69229874,nan,nan,     nan,     nan,     nan,184.6169,nan
+3707.69433864,nan,nan,     nan,     nan,     nan,186.8515,nan
+3721.70249158,nan,nan,     nan,     nan,     nan,194.5062,nan
+3724.70432789,nan,nan,     nan,     nan,     nan,196.5345,nan
+3731.70867662,nan,nan,     nan,     nan,     nan,206.3664,nan
+3735.71101269,nan,nan,     nan,     nan,     nan,209.9474,nan
+3741.71433244,nan,nan,     nan,     nan,     nan,216.4447,nan
+3750.21833211,nan,nan,     nan,     nan,     nan,222.1285,nan
+3751.21877844,nan,nan,     nan,     nan,     nan,224.2312,nan
+3756.72085270,nan,nan,     nan,     nan,     nan,227.6518,nan
+3761.72209864,nan,nan,     nan,     nan,     nan,232.8829,nan
+3761.72236901,nan,nan,     nan,     nan,     nan,229.0555,nan
+3777.22493438,nan,nan,     nan,     nan,     nan,249.5388,nan
+3783.22529776,nan,nan,     nan,     nan,     nan,249.4987,nan
+3793.22583660,nan,nan,     nan,     nan,     nan,262.5507,nan
+3797.22586234,nan,nan,     nan,     nan,     nan,263.0033,nan
+3801.22594484,nan,nan,     nan,     nan,     nan,266.0973,nan
+3803.22599965,nan,nan,     nan,     nan,     nan,268.0511,nan
+3812.22648221,nan,nan,     nan,     nan,     nan,281.0285,nan
+3820.72692330,nan,nan,     nan,     nan,     nan,274.9838,nan
+3822.22715504,nan,nan,     nan,     nan,     nan,276.9605,nan
+3824.72750220,nan,nan,     nan,     nan,     nan,277.2528,nan
+3828.72828708,nan,nan,     nan,     nan,     nan,282.0541,nan
+3840.73178512,nan,nan,     nan,     nan,     nan,295.4384,nan
+3844.23312982,nan,nan,     nan,     nan,     nan,300.0737,nan
+3856.23893341,nan,nan,     nan,     nan,     nan,311.9110,nan
+3869.24639828,nan,nan,     nan,     nan,     nan,318.0875,nan
+3870.24702913,nan,nan,     nan,     nan,     nan,319.9438,nan
+3875.25021443,nan,nan,     nan,     nan,     nan,325.9714,nan
+3879.25268874,nan,nan,     nan,     nan,     nan,328.0569,nan
+3889.25864391,nan,nan,     nan,     nan,     nan,336.9435,nan
+3897.26270292,nan,nan,     nan,     nan,     nan,340.5245,nan
+3904.26572464,nan,nan,     nan,     nan,     nan,347.0104,nan
+3907.26673267,nan,nan,     nan,     nan,     nan,346.6437,nan
+3947.27199267,nan,nan,     nan,     nan,     nan, 19.7263,nan
+3954.27217625,nan,nan,     nan,     nan,     nan, 27.4956,nan
+3961.27245043,nan,nan,     nan,     nan,     nan, 27.7076,nan
+3968.27291153,nan,nan,     nan,     nan,     nan, 29.0769,nan
+3983.77590321,nan,nan,     nan,     nan,     nan, 40.5304,nan
+3987.77716730,nan,nan,     nan,     nan,     nan, 43.5842,nan
+3994.77973552,nan,nan,     nan,     nan,     nan, 47.4058,nan
+4006.28532976,nan,nan,     nan,     nan,     nan, 55.3069,nan
+4008.28639599,nan,nan,     nan,     nan,     nan, 56.5445,nan
+4014.79024021,nan,nan,     nan,     nan,     nan, 59.7474,nan
+4017.79213903,nan,nan,     nan,     nan,     nan, 61.2141,nan
+4021.79476159,nan,nan,     nan,     nan,     nan, 64.5487,nan
+4024.79688166,nan,nan,     nan,     nan,     nan, 67.1156,nan
+4027.79914090,nan,nan,     nan,     nan,     nan, 69.8085,nan
+4032.80120419,nan,nan,     nan,     nan,     nan, 65.3795,nan
+4039.80607028,nan,nan,     nan,     nan,     nan, 67.4250,nan
+4044.30743069,nan,nan,     nan,     nan,     nan, 73.0457,nan
+4047.80907481,nan,nan,     nan,     nan,     nan, 76.3116,nan
+4050.81036565,nan,nan,     nan,     nan,     nan, 78.6149,nan
+4052.81115528,nan,nan,     nan,     nan,     nan, 79.2566,nan
+4057.31270882,nan,nan,     nan,     nan,     nan, 81.4739,nan
+4063.31435440,nan,nan,     nan,     nan,     nan, 87.7134,nan
+4070.31565236,nan,nan,     nan,     nan,     nan, 91.2486,nan
+4077.31651539,nan,nan,     nan,     nan,     nan, 96.9896,nan
+4080.31683538,nan,nan,     nan,     nan,     nan, 97.3334,nan
+4087.31718205,nan,nan,     nan,     nan,     nan,102.2551,nan
+4097.31734448,nan,nan,     nan,     nan,     nan,104.5928,nan
+4114.31781506,nan,nan,     nan,     nan,     nan,117.9312,nan
+4115.31790709,nan,nan,     nan,     nan,     nan,119.4324,nan
+4121.31850081,nan,nan,     nan,     nan,     nan,121.4721,nan
+4123.31878493,nan,nan,     nan,     nan,     nan,122.3315,nan
+4127.31948513,nan,nan,     nan,     nan,     nan,125.9240,nan
+4129.31990645,nan,nan,     nan,     nan,     nan,128.1929,nan
+4136.32167120,nan,nan,     nan,     nan,     nan,131.1665,nan
+4148.32628300,nan,nan,     nan,     nan,     nan,137.0852,nan
+4152.82837089,nan,nan,     nan,     nan,     nan,134.9939,nan
+4156.33047942,nan,nan,     nan,     nan,     nan,146.4645,nan
+4158.33137064,nan,nan,     nan,     nan,     nan,137.3660,nan
+4164.33488352,nan,nan,     nan,     nan,     nan,138.8098,nan
+4166.33609210,nan,nan,     nan,     nan,     nan,140.2823,nan
+4170.33861672,nan,nan,     nan,     nan,     nan,143.8461,nan
+4173.34051401,nan,nan,     nan,     nan,     nan,144.3159,nan
+4179.34439277,nan,nan,     nan,     nan,     nan,146.9229,nan
+4190.35093500,nan,nan,     nan,     nan,     nan,148.5329,nan
+4194.35304362,nan,nan,     nan,     nan,     nan,149.9596,nan
+4197.35448796,nan,nan,     nan,     nan,     nan,151.6555,nan
+4206.35789382,nan,nan,     nan,     nan,     nan,148.5959,nan
+4208.35847539,nan,nan,     nan,     nan,     nan,149.2548,nan
+4213.35972981,nan,nan,     nan,     nan,     nan,149.7361,nan
+4218.86085617,nan,nan,     nan,     nan,     nan,156.2277,nan
+4224.86231871,nan,nan,     nan,     nan,     nan,185.7580,nan
+4231.86286416,nan,nan,     nan,     nan,     nan,186.9039,nan
+4235.36291984,nan,nan,     nan,     nan,     nan,186.1189,nan
+4241.86332349,nan,nan,     nan,     nan,     nan,196.9249,nan
+4257.86313781,nan,nan,     nan,     nan,     nan,184.7954,nan
+4267.86375815,nan,nan,     nan,     nan,     nan,188.7660,nan
+4280.86604037,nan,nan,     nan,     nan,     nan,193.3898,nan
+4291.36936214,nan,nan,     nan,     nan,     nan,189.4879,nan
+4301.87426844,nan,nan,     nan,     nan,     nan,192.8340,nan
+4313.88131515,nan,nan,     nan,     nan,     nan,200.4028,nan
+4317.88385827,nan,nan,     nan,     nan,     nan,199.4287,nan
+4330.89231188,nan,nan,     nan,     nan,     nan,206.2699,nan
+4331.89296934,nan,nan,     nan,     nan,     nan,208.5560,nan
+4332.89358216,nan,nan,     nan,     nan,     nan,206.6652,nan
+4343.89983075,nan,nan,     nan,     nan,     nan,206.7511,nan
+4346.90134146,nan,nan,     nan,     nan,     nan,209.8795,nan
+4353.40410059,nan,nan,     nan,     nan,     nan,236.2012,nan
+4365.40630556,nan,nan,     nan,     nan,     nan,210.2748,nan
+4375.40713589,nan,nan,     nan,     nan,     nan,186.2794,nan
+4384.40779690,nan,nan,     nan,     nan,     nan,209.0602,nan
+4385.40797479,nan,nan,     nan,     nan,     nan,204.2817,nan
+4391.40817960,nan,nan,     nan,     nan,     nan,216.4399,nan
+4395.40809072,nan,nan,     nan,     nan,     nan,211.6098,nan
+4403.40820494,nan,nan,     nan,     nan,     nan,222.6679,nan
+4408.40828463,nan,nan,     nan,     nan,     nan,224.6389,nan
+4409.40835130,nan,nan,     nan,     nan,     nan,226.3348,nan
+4410.40839457,nan,nan,     nan,     nan,     nan,226.8849,nan
+4411.40845173,nan,nan,     nan,     nan,     nan,227.6412,nan
+4413.40853475,nan,nan,     nan,     nan,     nan,227.8532,nan
+4417.40887557,nan,nan,     nan,     nan,     nan,224.6332,nan
+4427.91085750,nan,nan,     nan,     nan,     nan,235.7142,nan
+4436.41324971,nan,nan,     nan,     nan,     nan,229.1996,nan
+4441.41530539,nan,nan,     nan,     nan,     nan,234.0182,nan
+4448.41872415,nan,nan,     nan,     nan,     nan,236.3215,nan
+4459.42516790,nan,nan,     nan,     nan,     nan,247.1848,nan
+4465.42892826,nan,nan,     nan,     nan,     nan,247.4770,nan
+4471.43287710,nan,nan,     nan,     nan,     nan,245.3456,nan
+4474.43517019,nan,nan,     nan,     nan,     nan,254.8681,nan
+4485.44214012,nan,nan,     nan,     nan,     nan,256.9079,nan
+4487.44338554,nan,nan,     nan,     nan,     nan,260.9071,nan
+4488.44400030,nan,nan,     nan,     nan,     nan,263.4682,nan
+4491.44541536,nan,nan,     nan,     nan,     nan,260.3284,nan
+4495.94750002,nan,nan,     nan,     nan,     nan,263.7261,nan
+4500.94953025,nan,nan,     nan,     nan,     nan,270.8880,nan
+4505.45077569,nan,nan,     nan,     nan,     nan,268.0805,nan
+4515.95284716,nan,nan,     nan,     nan,     nan,265.9663,nan
+4528.45375048,nan,nan,     nan,     nan,     nan,261.8468,nan
+4532.95363014,nan,nan,     nan,     nan,     nan,248.8464,nan
+4543.95383097,nan,nan,     nan,     nan,     nan,259.1596,nan
+4554.95395888,nan,nan,     nan,     nan,     nan,263.5255,nan
+4561.95433914,nan,nan,     nan,     nan,     nan,264.0813,nan
+4568.95528384,nan,nan,     nan,     nan,     nan,267.3930,nan
+4581.95854317,nan,nan,     nan,     nan,     nan,264.7975,nan
+4583.95929231,nan,nan,     nan,     nan,     nan,264.3105,nan
+4584.95976435,nan,nan,     nan,     nan,     nan,266.6195,nan
+4590.96244602,nan,nan,     nan,     nan,     nan,266.8028,nan
+4600.96805871,nan,nan,     nan,     nan,     nan,271.4094,nan
+4610.97450418,nan,nan,     nan,     nan,     nan,276.0504,nan
+4620.98138814,nan,nan,     nan,     nan,     nan,275.6321,nan
+4631.98873722,nan,nan,     nan,     nan,     nan,286.5069,nan
+4641.49408196,nan,nan,     nan,     nan,     nan,298.9286,nan
+4674.50137836,nan,nan,     nan,     nan,     nan,358.2698,nan
+4686.49981706,nan,nan,     nan,     nan,     nan,293.7376,nan
+4695.49974067,nan,nan,     nan,     nan,     nan,303.7242,nan
+4700.49953245,nan,nan,     nan,     nan,     nan,297.5592,nan
+4701.49952652,nan,nan,     nan,     nan,     nan,297.5019,nan
+4703.49958252,nan,nan,     nan,     nan,     nan,298.6650,nan
+4704.49960758,nan,nan,     nan,     nan,     nan,298.7567,nan
+4708.49977091,nan,nan,     nan,     nan,     nan,301.2663,nan
+4719.50130885,nan,nan,     nan,     nan,     nan,304.3373,nan
+4728.50373372,nan,nan,     nan,     nan,     nan,299.1520,nan
+4737.50753297,nan,nan,     nan,     nan,     nan,298.8942,nan
+4746.51281050,nan,nan,     nan,     nan,     nan,318.5639,nan
+4755.51783740,nan,nan,     nan,     nan,     nan,300.4527,nan
+4758.51979686,nan,nan,     nan,     nan,     nan,299.3984,nan
+4763.52318797,nan,nan,     nan,     nan,     nan,298.4358,nan
+4770.52807708,nan,nan,     nan,     nan,     nan,307.6032,nan
+4775.53121194,nan,nan,     nan,     nan,     nan,311.0925,nan
+4781.53449611,nan,nan,     nan,     nan,     nan,324.3278,nan
+4795.53893820,nan,nan,     nan,     nan,     nan,318.5524,nan
+4920.01194711,nan,nan,     nan,     nan,     nan,337.0647,nan
+4926.00619784,nan,nan,     nan,     nan,     nan,336.5834,nan
+4998.02780618,nan,nan,     nan,     nan,     nan,344.5131,nan
+5014.58752825,nan,nan,     nan,     nan,     nan, 54.6947,nan
+5028.46813848,nan,nan,     nan,     nan,     nan,103.8889,nan
+5041.12768417,nan,nan,     nan,     nan,     nan,164.3531,nan
+5057.02780618,nan,nan,     nan,     nan,     nan,341.1175,nan
+5073.74650734,nan,nan,     nan,     nan,     nan,273.1750,nan
+5073.74729809,nan,nan,     nan,     nan,     nan,282.5428,nan
+5078.00102533,nan,nan,     nan,     nan,     nan,250.3558,nan
+5084.57280544,nan,nan,     nan,     nan,     nan,170.5591,nan
+5087.73002684,nan,nan,     nan,     nan,     nan,140.4731,nan
+5088.12424388,nan,nan,     nan,     nan,     nan, 98.1381,nan
