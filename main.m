@@ -19,22 +19,21 @@ set(0, 'DefaultTextLineWidth', 0.8)
 %% settings
 % choose spacecraft
 SSN = "00513U_LEO";       % LEO / Calsphere 1A
+start_row = 0;
+end_row = 268;
+
 % SSN = "04882U_GTO";       % GTO / Atlas Centaur R/B
+% start_row = 0;
+% end_row =
+
 % SSN = "01324U_Molniya";   % Molniya / Molniya 1-1
+% Molniyaは、time=4500以降発散？しているので、データ範囲を指定して表示
+% start_row = 1;
+% end_row = 549;
+
 % SSN = "12472U_GEO";       % GEO / GOES-5
-
-
-% SSN = "00081U_LEO";        % Explorer 9
-% SSN = "08134U_GTO"         % Delta-1 R/B
-% SSN = "00898U_GTO";        % GTO-like/ Cosms 41 R/B
-% SSN = "02151U_Molniya";    % Molniya / Molniya 1-3
-% SSN = "12564U_GEO";        % GEO / EKRAN-7
-
-% % choose integrator
-% integrator = "GaussForm";
-% % integrator = "CowellForm";
-% % integrator = "First-orSo";
-% % integrator = "KwokForm";
+% start_row = 0;
+% end_row = 7556;
 
 
 
@@ -42,6 +41,8 @@ SSN = "00513U_LEO";       % LEO / Calsphere 1A
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% 読み込み
 % column: Time(day),a(km),e,i(deg),n(deg),w(deg),m(deg),hp(km)
+
+
 
 filename = append("GaussForm_", SSN, ".csv");
 data = readmatrix(fullfile("data", filename));
@@ -78,6 +79,45 @@ n_first    = data(:, 5);  % 平均運動 mean motion
 w_first    = data(:, 6);  % 近点引数 argument of perigee
 m_first    = data(:, 7);  % 平均離角
 hp_first   = data(:, 8);  % 近点高度
+
+
+
+%% 以下はデータ範囲を指定するときに使用
+% filename = append("GaussForm_", SSN, ".csv");
+% data = readmatrix(fullfile("data", filename));
+
+% time_gauss = data(start_row:end_row, 1);
+% a_gauss    = data(start_row:end_row, 2);  % 軌道長半径 semi-major axis
+% e_gauss    = data(start_row:end_row, 3);  % 離心率 ecentricity
+% i_gauss    = data(start_row:end_row, 4);  % 傾斜角 inclination
+% n_gauss    = data(start_row:end_row, 5);  % 平均運動 mean motion
+% w_gauss    = data(start_row:end_row, 6);  % 近点引数 argument of perigee
+% m_gauss    = data(start_row:end_row, 7);  % 平均離角
+% hp_gauss   = data(start_row:end_row, 8);  % 近点高度
+
+
+% filename = append("CowellForm_", SSN, ".csv");
+% data = readmatrix(fullfile("data", filename));
+% time_cowell = data(start_row:end_row, 1);
+% a_cowell    = data(start_row:end_row, 2);  % 軌道長半径 semi-major axis
+% e_cowell    = data(start_row:end_row, 3);  % 離心率 ecentricity
+% i_cowell    = data(start_row:end_row, 4);  % 傾斜角 inclination
+% n_cowell    = data(start_row:end_row, 5);  % 平均運動 mean motion
+% w_cowell    = data(start_row:end_row, 6);  % 近点引数 argument of perigee
+% m_cowell    = data(start_row:end_row, 7);  % 平均離角
+% hp_cowell   = data(start_row:end_row, 8);  % 近点高度
+
+
+% filename = append("First-orSo_", SSN, ".csv");
+% data = readmatrix(fullfile("data", filename));
+% time_first = data(start_row:end_row, 1);
+% a_first    = data(start_row:end_row, 2);  % 軌道長半径 semi-major axis
+% e_first    = data(start_row:end_row, 3);  % 離心率 ecentricity
+% i_first    = data(start_row:end_row, 4);  % 傾斜角 inclination
+% n_first    = data(start_row:end_row, 5);  % 平均運動 mean motion
+% w_first    = data(start_row:end_row, 6);  % 近点引数 argument of perigee
+% m_first    = data(start_row:end_row, 7);  % 平均離角
+% hp_first   = data(start_row:end_row, 8);  % 近点高度
 
 
 
