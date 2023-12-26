@@ -4,6 +4,14 @@
 - コード: main.m
 - 出力画像: figure/
 
+## データファイルの命名
+
+`積分器名_SSN_OrbitType.csv`
+
+e.g., `CowellForm_00513U_LEO.csv`
+
+## 積分器と宇宙機の種類
+
 ```.m
 % choose integrator
 integrator = "GaussForm";
