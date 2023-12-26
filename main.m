@@ -11,7 +11,7 @@ set(0, "DefaultTextInterpreter", "latex")
 set(0, "DefaultLegendInterpreter", "latex")
 set(0, 'DefaultLineLineWidth', 2);
 % line width
-set(0, 'DefaultLineLineWidth', 0.8 ) % default 0.5pt
+set(0, 'DefaultLineLineWidth', 1.0 ) % default 0.5pt
 set(0, 'DefaultAxesLineWidth', 0.8)
 set(0, 'DefaultTextLineWidth', 0.8)
 
@@ -56,9 +56,7 @@ m_gauss    = data(:, 7);  % 平均離角
 hp_gauss   = data(:, 8);  % 近点高度
 
 
-% TODO: change file name
-% filename = append("CowellForm_", SSN, ".csv");
-filename = append("test", ".csv");
+filename = append("CowellForm_", SSN, ".csv");
 data = readmatrix(fullfile("data", filename));
 time_cowell = data(:, 1);
 a_cowell    = data(:, 2);  % 軌道長半径 semi-major axis
