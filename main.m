@@ -18,11 +18,11 @@ set(0, 'DefaultTextLineWidth', 0.8)
 
 %% settings
 % choose spacecraft
-SSN = "00513U_LEO";       % LEO / Calsphere 1A
-start_row = 0;
-end_row = 268;
+% SSN = "00513U_LEO";       % LEO / Calsphere 1A
+% start_row = 0;
+% end_row = 268;
 
-% SSN = "04882U_GTO";       % GTO / Atlas Centaur R/B
+SSN = "04882U_GTO";       % GTO / Atlas Centaur R/B
 % start_row = 0;
 % end_row =
 
