@@ -1,8 +1,11 @@
 ## このリポジトリについて
 
-- データ: data/
-- コード: main.m
-- 出力画像: figure/
+TLE をもとに AstroLib で計算された結果を MATLAB でプロット。
+プロットした画像は[figure](figure/)に出力
+
+- データ: [data/](data/)
+- コード: [main.m](main.m)
+- 出力画像: [figure/](figure/)
 
 ## データファイルの命名
 
