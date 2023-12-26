@@ -17,13 +17,6 @@ set(0, 'DefaultTextLineWidth', 0.8)
 
 
 %% settings
-% choose integrator
-integrator = "GaussForm";
-% integrator = "CowellForm";
-% integrator = "First-orSo";
-% integrator = "KwokForm";
-
-
 % choose spacecraft
 SSN = "00513U_LEO";       % LEO / Calsphere 1A
 % SSN = "04882U_GTO";       % GTO / Atlas Centaur R/B
@@ -37,32 +30,68 @@ SSN = "00513U_LEO";       % LEO / Calsphere 1A
 % SSN = "02151U_Molniya";    % Molniya / Molniya 1-3
 % SSN = "12564U_GEO";        % GEO / EKRAN-7
 
+% % choose integrator
+% integrator = "GaussForm";
+% % integrator = "CowellForm";
+% % integrator = "First-orSo";
+% % integrator = "KwokForm";
 
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% 読み込み
-% column:
-% Time(day),a(km),e,i(deg),n(deg),w(deg),m(deg),hp(km)
+% column: Time(day),a(km),e,i(deg),n(deg),w(deg),m(deg),hp(km)
 
-% data = readmatrix('data/test.csv');
-filename = append(integrator, "_", SSN, ".csv");
+filename = append("GaussForm_", SSN, ".csv");
 data = readmatrix(fullfile("data", filename));
 
-time = data(:, 1);
-a    = data(:, 2);  % 軌道長半径 semi-major axis
-e    = data(:, 3);  % 離心率 ecentricity
-i    = data(:, 4);  % 傾斜角 inclination
-n    = data(:, 5);  % 平均運動 mean motion
-w    = data(:, 6);  % 近点引数 argument of perigee
-m    = data(:, 7);  % 平均離角
-hp   = data(:, 8);  % 近点高度
+time_gauss = data(:, 1);
+a_gauss    = data(:, 2);  % 軌道長半径 semi-major axis
+e_gauss    = data(:, 3);  % 離心率 ecentricity
+i_gauss    = data(:, 4);  % 傾斜角 inclination
+n_gauss    = data(:, 5);  % 平均運動 mean motion
+w_gauss    = data(:, 6);  % 近点引数 argument of perigee
+m_gauss    = data(:, 7);  % 平均離角
+hp_gauss   = data(:, 8);  % 近点高度
+
+
+% TODO: change file name
+% filename = append("CowellForm_", SSN, ".csv");
+filename = append("test", ".csv");
+data = readmatrix(fullfile("data", filename));
+time_cowell = data(:, 1);
+a_cowell    = data(:, 2);  % 軌道長半径 semi-major axis
+e_cowell    = data(:, 3);  % 離心率 ecentricity
+i_cowell    = data(:, 4);  % 傾斜角 inclination
+n_cowell    = data(:, 5);  % 平均運動 mean motion
+w_cowell    = data(:, 6);  % 近点引数 argument of perigee
+m_cowell    = data(:, 7);  % 平均離角
+hp_cowell   = data(:, 8);  % 近点高度
+
+
+filename = append("First-orSo_", SSN, ".csv");
+data = readmatrix(fullfile("data", filename));
+time_first = data(:, 1);
+a_first    = data(:, 2);  % 軌道長半径 semi-major axis
+e_first    = data(:, 3);  % 離心率 ecentricity
+i_first    = data(:, 4);  % 傾斜角 inclination
+n_first    = data(:, 5);  % 平均運動 mean motion
+w_first    = data(:, 6);  % 近点引数 argument of perigee
+m_first    = data(:, 7);  % 平均離角
+hp_first   = data(:, 8);  % 近点高度
+
+
 
 
 %% plot
-% LEO, GTO, MTO, GEO
-folder = "figure/cowell/LEO"
+% 新しい色順序を指定 (例): 黒、青、赤
+newColorOrder = [0 0 0; 0 0 1; 1 0 0];
+% 色順序を設定
+set(groot, 'defaultAxesColorOrder', newColorOrder);
+
+
+folder = fullfile("figure", SSN);
 if not(exist(folder, 'dir'))
     % もしoutputフォルダがなければ新規作成する
     mkdir(folder);
@@ -71,50 +100,65 @@ end
 
 f = figure("Name", "semi-major axis a")
 f.Position = [100 100 800 300];
-plot(time, a, "Color", "b")
+plot(time_gauss, a_gauss)
+hold on; grid on;
+plot(time_cowell, a_cowell)
+plot(time_first, a_first)
 xlabel("time [day]"); ylabel("$a$ [km]")
-grid on
+legend({"Gauss", "Cowell", "First-order"})
 exportgraphics(f, fullfile(folder, "a.pdf"))
 
 f = figure("Name", "e")
 f.Position = [100 100 800 300];
-plot(time, e, "Color", "b")
+plot(time_gauss, e_gauss)
+hold on; grid on;
+plot(time_cowell, e_cowell)
+plot(time_first, e_first)
 xlabel("time [day]"); ylabel("$e$ [deg]")
-grid on
 exportgraphics(f, fullfile(folder, "e.pdf"))
 
 f = figure("Name", "i")
 f.Position = [100 100 800 300];
-plot(time, i, "Color", "b")
+plot(time_gauss, i_gauss)
+hold on; grid on;
+plot(time_cowell, i_cowell)
+plot(time_first, i_first)
 xlabel("time [day]"); ylabel("$i$ [deg]")
-grid on
 exportgraphics(f, fullfile(folder, "i.pdf"))
 
 f = figure("Name", "mean motion")
 f.Position = [100 100 800 300];
-plot(time, n, "Color", "b")
+plot(time_gauss, n_gauss)
+hold on; grid on;
+plot(time_cowell, n_cowell)
+plot(time_first, n_first)
 xlabel("time [day]"); ylabel("$n$ [deg]")
-grid on
 exportgraphics(f, fullfile(folder, "n.pdf"))
 
 f = figure("Name", "w")
 f.Position = [100 100 800 300];
-plot(time, w, "Color", "b")
+plot(time_gauss, w_gauss)
+hold on; grid on;
+plot(time_cowell, w_cowell)
+plot(time_first, w_first)
 xlabel("time [day]"); ylabel("$\omega$ [deg]")
-grid on
 exportgraphics(f, fullfile(folder, "w.pdf"))
 
 f = figure("Name", "m")
 f.Position = [100 100 800 300];
-plot(time, m, "Color", "b")
+plot(time_gauss, m_gauss)
+hold on; grid on;
+plot(time_cowell, m_cowell)
+plot(time_first, m_first)
 xlabel("time [day]"); ylabel("$m$ [deg]")
-grid on
 exportgraphics(f, fullfile(folder, "m.pdf"))
 
 f = figure("Name", "hp")
 f.Position = [100 100 800 300];
-plot(time, hp, "Color", "b")
+plot(time_gauss, hp_gauss)
+hold on; grid on;
+plot(time_cowell, hp_cowell)
+plot(time_first, hp_first)
 xlabel("time [day]"); ylabel("$hp$ [km]")
-grid on
 exportgraphics(f, fullfile(folder, "hp.pdf"))
 
